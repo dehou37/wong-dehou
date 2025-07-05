@@ -426,7 +426,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="bg-black/60 backdrop-blur-md border-t border-purple-500/30 py-8 mt-16">
         <div className="max-w-6xl mx-auto px-4 text-center">
-          <p className="text-gray-400">&copy; 2025 Wong Dehou. Crafted with cutting-edge tech and creative passion.</p>
+          <p className="text-gray-400">Thanks for making it to the end, feel free to reach out to me! </p>
         </div>
       </footer>
     </div>
