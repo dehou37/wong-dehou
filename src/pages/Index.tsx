@@ -129,7 +129,7 @@ const Index = () => {
                 <div className="space-y-4">
                   <p className="text-gray-300 leading-relaxed">
                     When I'm not coding or optimizing systems, you'll find me playing table tennis, 
-                    discovering new music, or binge-watching the latest tech documentaries and sci-fi series.
+                    discovering new music, or binge-watching the latest kdramas and thriller shows!
                   </p>
                   <div className="flex flex-wrap gap-2">
                     {["Table Tennis", "Music", "Tech Shows", "Sci-Fi"].map((interest, index) => (
